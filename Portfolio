@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>My Content Writing Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <h1>My Content Writing Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#samples">Writing Samples</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm a passionate content writer with experience in various niches. I craft engaging articles, blogs, and web content to help brands tell their stories.</p>
+    </section>
+
+    <section id="samples">
+        <h2>Writing Samples</h2>
+        <div class="sample">
+            <h3>Sample Article 1</h3>
+            <p>A brief description of your first sample. You can include links to full articles or PDFs.</p>
+        </div>
+        <div class="sample">
+            <h3>Sample Blog Post</h3>
+            <p>Description of your blog post or a link to it.</p>
+        </div>
+        <!-- Add more samples as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: your.email@example.com</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+        <!-- Add other contact info -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
